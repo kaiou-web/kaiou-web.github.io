@@ -24,4 +24,4 @@ I study behavioral choice patterns using theoretical and experimental tools. My 
 
 Before joining Florida State University, I received a Ph.D. in Politics from New York University. 
 
-I teach behavioral political economy, formal political economy, behavioral game theory, quantitative methods, and experimental methods for undergraduate and graduate students.
+I teach behavioral political economy, behavioral game theory, quantitative methods, and experimental methods for undergraduate and graduate students.
