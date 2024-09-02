@@ -18,8 +18,10 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am an associate professor in the Department of Political Science at Florida State University. 
 
-Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+I study behavioral choice patterns using theoretical and experimental tools. My research focuses on institutional effects on economic and political behavior. I study voting and elections, political donation, and competition and coordination between ethnic groups. 
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](https://fontawesome.com/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before joining Florida State University, I received a Ph.D. in Politics from New York University. 
+
+I teach behavioral political economy, formal political economy, behavioral game theory, quantitative methods, and experimental methods for undergraduate and graduate students.
