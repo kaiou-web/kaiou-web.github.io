@@ -21,9 +21,9 @@ social: false # includes social icons at the bottom of the page
 I am an associate professor in the Department of Political Science at Florida State University. 
 
 My research spans a diverse range of areas, from examining the dynamics of power, political inequality, gender, and race to unraveling the complexities of giving and voting behavior.
-What unites my work is a shared methodological approach -- the development of theoretical models and experimental designs to uncover the fundamental mechanisms that underlie
+What unites my work is a shared methodological approach---the development of theoretical models and experimental designs to uncover the fundamental mechanisms that underlie
 political behavior and clarify the causal relationships between these mechanisms, their definitions, functions, and influencing factors. My primary goal is to identify the motivations behind political and economic behavior, explore how they are assessed and measured, and emphasize the influence of behavioral factors and strategic incentives. 
 
-Before joining Florida State University, I received a Ph.D. in Politics from New York University. 
+I received a Ph.D. in Politics from New York University. 
 
 I teach behavioral political economy, behavioral game theory, quantitative methods, and experimental methods for undergraduate and graduate students.
