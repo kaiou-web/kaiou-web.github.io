@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle:
+subtitle: kou [at] fsu [dot] edu
 
 profile:
   align: right
