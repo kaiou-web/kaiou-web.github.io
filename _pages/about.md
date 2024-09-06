@@ -20,7 +20,7 @@ social: false # includes social icons at the bottom of the page
 
 I am an associate professor in the Department of Political Science at Florida State University. 
 
-My research falls into three methodologically related but substantively distinct streams. The first stream focuses on methodological innovations to measure and investigate political preferences. The second stream focuses on identity in politics and how various social identities affect political behavior. The third, and an emerging stream of my research, examines gender politics and how gender differences affect collective decision-making and policy outcomes. Using game-theoretical models and experimental methods, my studies identify substantive mechanisms that shape political behavior and clarify the relationships between their definitions, functions, and influencing factors. 
+My research falls into three methodologically related but substantively distinct streams. The first stream focuses on methodological innovations to measure and investigate political preferences. The second stream focuses on identity in politics and how various social identities affect political behavior. The third, and an emerging stream of my research, examines gender politics and how gender differences affect collective decision-making and policy outcomes. Using game-theoretical models and experimental methods, my studies identify substantive mechanisms that shape political and economic behavior and clarify the relationships between their definitions, functions, and influencing factors. 
 
 Before joining Florida State University, I received a Ph.D. in Politics from New York University. 
 
