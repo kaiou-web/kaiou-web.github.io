@@ -18,7 +18,7 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
 
-I am an associate professor in the Department of Political Science at Florida State University. 
+I am an associate professor of political science at Florida State University. 
 
 My research spans a diverse range of areas, from examining the dynamics of power, political inequality, gender, and race to unraveling the complexities of giving and voting behavior.
 What unites my work is a shared methodological approach---the development of theoretical models and experimental designs to uncover the fundamental mechanisms that underlie
