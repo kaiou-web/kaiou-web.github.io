@@ -2,7 +2,7 @@
 layout: page
 permalink: /teaching/
 title: Teaching
-description: I view teaching as creative work that keeps students' curiosity alive and turns them from passive receptors to active learners. 
+description: 
 nav: true
 nav_order: 6
 ---
