@@ -24,6 +24,6 @@ My research spans a diverse range of areas, from examining the dynamics of power
 What unites my work is a shared methodological approach---the development of theoretical models and experimental designs to uncover the fundamental mechanisms that underlie
 political behavior and clarify the causal relationships between these mechanisms, their definitions, functions, and influencing factors. My primary goal is to identify the motivations behind political and economic behavior, explore how they are assessed and measured, and emphasize the influence of behavioral factors and strategic incentives. 
 
-I received a Ph.D. in Politics from New York University. 
+I received a Ph.D. in Politics from New York University in 2016. 
 
 I teach behavioral political economy, behavioral game theory, quantitative methods, and experimental methods for undergraduate and graduate students.
