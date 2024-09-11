@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: redirect
 permalink: /cv/
 title: Curriculum Vitae
 nav: true
