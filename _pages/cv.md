@@ -1,6 +1,6 @@
 ---
 layout: default
-permalink: /assets/pdf/CV.pdf
+permalink: /assets/pdf/KAIOU_CV.pdf
 title: Curriculum Vitae
 newtab: true
 nav: true
