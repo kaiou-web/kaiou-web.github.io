@@ -43,7 +43,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="pos5727" class="card-title">Formal Political Economy</h5>
+        <h5 id="pos5727" class="card-title">Positive Political Economy</h5>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
