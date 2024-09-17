@@ -37,7 +37,7 @@ nav_order: 4
 
 
 
-<h3 style="color: #4b9cd3;" id="fsu"><a href="https://cosspp.fsu.edu/polisci/">Florida State University</a></h3>
+
 <!-- POS 5727  -->
 <div class="card mt-3">
   <div class="p-3">
@@ -64,7 +64,7 @@ nav_order: 4
 </div>
 
 
-<h3 style="color: #4b9cd3;" id="fsu"><a href="https://cosspp.fsu.edu/polisci/">Florida State University</a></h3>
+
 <!-- POS 4715  -->
 <div class="card mt-3">
   <div class="p-3">
@@ -91,7 +91,7 @@ nav_order: 4
 </div>
 
 
-<h3 style="color: #4b9cd3;" id="fsu"><a href="https://cosspp.fsu.edu/polisci/">Florida State University</a></h3>
+
 <!-- POS 3931  -->
 <div class="card mt-3">
   <div class="p-3">
@@ -117,7 +117,7 @@ nav_order: 4
   </div>
 </div>
 
-<h3 style="color: #4b9cd3;" id="fsu"><a href="https://cosspp.fsu.edu/polisci/">Florida State University</a></h3>
+
 <!-- POS 3713  -->
 <div class="card mt-3">
   <div class="p-3">
