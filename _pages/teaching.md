@@ -135,7 +135,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course provides an in-depth examination of experimental studies, teaches students how to design an experiment, and demonstrates the advantages of experiments in social science research. We introduce the typical methods used in the laboratory and field experiment, and we demonstrate how the knowledge of psychological studies can improve our understanding of behavior in the context of political science.  
+            This course provides an in-depth examination of experimental studies, teaches students how to design an experiment, and demonstrates the advantages of experiments in social science research. We also introduce the typical methods used in the laboratory and field experiment.  
           </div>
         </div>
       </li>
