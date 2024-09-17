@@ -118,6 +118,32 @@ nav_order: 4
 </div>
 
 
+<!-- POS 3930  -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="pos3930" class="card-title">Introduction to Social Social Science Experiments</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          POS 3930
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            This course provides an in-depth examination of experimental studies, teaches students how to design an experiment, and demonstrates the advantages of experiments in social science research. We introduce the typical methods used in the laboratory, field experiment, survey experiment, and we demonstrate how the knowledge of psychological studies can improve our understanding of behavior in the context of political science.  
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
+
+
 <!-- POS 3713  -->
 <div class="card mt-3">
   <div class="p-3">
