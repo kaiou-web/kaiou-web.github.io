@@ -27,7 +27,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This graduate course focuses on the empirical implications of theoretical models (EITM) methods, current methodological issues that are particular to experimental research, the ethics of experimentation, the practical matters of choosing and motivating subjects, preregistration, and pre-experiment analysis, etc. Moreover, technology and other advances in experimentation have meant that the distance and differences between lab and field experimentation are becoming smaller. Researchers working in the lab find themselves doing work in the field and vice-versa. Hence, the course will aim to provide training in both types of experimentation---lab and field---with particular emphasis on how lab and fieldwork can complement each other. The course also provides students with training in software for experimentation, which can be used in the field, traditional laboratory, and online.
+            This graduate course focuses on the empirical implications of theoretical models (EITM) methods, current methodological issues that are particular to experimental research, the ethics of experimentation, the practical matters of choosing and motivating subjects, preregistration, and pre-experiment analysis, etc. 
           </div>
         </div>
       </li>
@@ -55,7 +55,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course is the second in a series for doctoral students in political science, focusing on advanced applications and topics in game theory. Building on the foundational concepts covered in Game Theory I, this course delves into specific areas of political science, such as legislature, lobbying, elections, conflict, and development. Additionally, the course covers various methodological aspects of game theory, including signaling, voting, bargaining, and testing game theory through observational and experimental methods, as well as examining the concept of bounded rationality and quantal response equilibrium.
+            This course is the second in a series for doctoral students in political science, focusing on advanced applications and topics in game theory. Building on the foundational concepts covered in Game Theory I, this course delves into specific areas of political science, such as legislature, lobbying, elections, conflict, bargaining, and development. 
           </div>
         </div>
       </li>
@@ -82,7 +82,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course will introduce the fundamentals of game theory with guide the students through prominent applications of it. Game theory is a scientific tool used to study strategic interactions. Whenever the choices made by two or more rational and goal-oriented decision-makers have an effect on the outcomes, the interaction between them is game-theoretic in nature. As suggested by its recent emergence into popular culture, game theory has been applied widely, in attempts to address phenomena in a variety of academic disciplines, including political science, economics, and biology. Because much of politics is about the allocation of scarce goods, such as power and wealth, and the competition for these goods, much of politics would seem to be a natural fit for the language of game theory. 
+            This course introduces the fundamentals of game theory with guide the students through prominent applications of it. Because much of politics is about the allocation of scarce goods, such as power and wealth, and the competition for these goods, much of politics would seem to be a natural fit for the language of game theory. 
           </div>
         </div>
       </li>
@@ -109,7 +109,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course provides an in-depth examination of the behavioral influence on important political economy questions, teaches students how to use scientific research methods to explore political economy questions from the behavioral perspective, and demonstrates the advantages of experiments in the study of political behavior. We demonstrate how the knowledge of interdisciplinary studies can improve our understanding of behavior in the context of political science. Upon completion of this course, students will be familiar with some core concepts in the testing of political theories, will be trained in the ethical use of human subjects in scientific research, and will have proposed and explored behavioral political economy questions of their own.  Topics for this course are taken from new classics in the academic literature of political science, economics, and psychology.  The class begins by introducing what behavioral political economy is, followed by a series of special topics on political economy demonstrated through student-engaged experiments, and concludes with students conducting/demonstrating the proposals of their own in class. 
+            This course provides an in-depth examination of the behavioral influence on important political economy questions, teaches students how to use scientific research methods to explore political economy questions from the behavioral perspective, and demonstrates the advantages of experiments in the study of political behavior.  
           </div>
         </div>
       </li>
@@ -135,7 +135,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course is an introduction to political science research methods. Students will learn fundamental strategies for the systematic observation of the political world and how these observations can be used to test hypotheses regarding political phenomena. Understanding these strategies will help students comprehend research discussed in advanced political science courses. Additionally, it will enhance students' ability to critically evaluate political claims and arguments, improving students' skills as an informed and analytical citizen. 
+            This course is an introduction to political science research methods. Students will learn fundamental strategies for the systematic observation of the political world and how these observations can be used to test hypotheses regarding political phenomena. 
           </div>
         </div>
       </li>
