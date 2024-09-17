@@ -123,7 +123,7 @@ nav_order: 4
   <div class="p-3">
     <div class="row">
       <div class="col-sm-10">
-        <h5 id="pos3930" class="card-title">Introduction to Social Social Science Experiments</h5>
+        <h5 id="pos3930" class="card-title">Introduction to Social Science Experiments</h5>
       </div>
       <div class="col-sm-2 text-sm-right">
         <span class="badge">
