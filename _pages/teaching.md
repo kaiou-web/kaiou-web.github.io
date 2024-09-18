@@ -109,7 +109,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This undergraduate course provides an in-depth examination of the behavioral influence on important political economy questions, teaches students how to use scientific research methods to explore political economy questions from the behavioral perspective, and demonstrates the advantages of experiments in the study of political behavior.  
+            This undergraduate course provides an in-depth examination of the behavioral influence on important political economy questions and teaches students how to use scientific research methods to explore political economy questions from the behavioral perspective.  
           </div>
         </div>
       </li>
