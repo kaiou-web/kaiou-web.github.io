@@ -82,7 +82,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course introduces the fundamentals of game theory with guide the students through prominent applications of it. Because much of politics is about the allocation of scarce goods, such as power and wealth, and the competition for these goods, much of politics would seem to be a natural fit for the language of game theory. 
+            This undergraduate course introduces the fundamentals of game theory with guide the students through prominent applications of it. Because much of politics is about the allocation of scarce goods, such as power and wealth, and the competition for these goods, much of politics would seem to be a natural fit for the language of game theory. 
           </div>
         </div>
       </li>
@@ -109,7 +109,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course provides an in-depth examination of the behavioral influence on important political economy questions, teaches students how to use scientific research methods to explore political economy questions from the behavioral perspective, and demonstrates the advantages of experiments in the study of political behavior.  
+            This undergraduate course provides an in-depth examination of the behavioral influence on important political economy questions, teaches students how to use scientific research methods to explore political economy questions from the behavioral perspective, and demonstrates the advantages of experiments in the study of political behavior.  
           </div>
         </div>
       </li>
@@ -135,7 +135,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course provides an in-depth examination of experimental studies, teaches students how to design an experiment, and demonstrates the advantages of experiments in social science research. We also introduce the typical methods used in the laboratory and field experiment.  
+            This undergraduate course provides an in-depth examination of experimental studies, teaches students how to design an experiment, and demonstrates the advantages of experiments in social science research. We also introduce the typical methods used in the laboratory and field experiment.  
           </div>
         </div>
       </li>
@@ -161,7 +161,7 @@ nav_order: 4
       <li class="list-group-item">
         <div class="row">
           <div class="col-sm-9">
-            This course is an introduction to political science research methods. Students will learn fundamental strategies for the systematic observation of the political world and how these observations can be used to test hypotheses regarding political phenomena. 
+            This undergraduate course is an introduction to political science research methods. Students will learn fundamental strategies for the systematic observation of the political world and how these observations can be used to test hypotheses regarding political phenomena. 
           </div>
         </div>
       </li>
