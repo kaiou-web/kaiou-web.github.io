@@ -63,6 +63,30 @@ nav_order: 4
   </div>
 </div>
 
+<!-- POS 4935  -->
+<div class="card mt-3">
+  <div class="p-3">
+    <div class="row">
+      <div class="col-sm-10">
+        <h5 id="pos4935" class="card-title">Honors in the Major Research</h5>
+      </div>
+      <div class="col-sm-2 text-sm-right">
+        <span class="badge">
+          POS 4935
+        </span>
+      </div>
+    </div>
+    <ul class="card-text font-weight-light list-group list-group-flush">
+      <li class="list-group-item">
+        <div class="row">
+          <div class="col-sm-9">
+            It is designed for advanced undergraduate students who are participating in the FSU Honors in the Major program. Students use this course to conduct original research and write their senior honors thesis under the direction of a faculty mentor. 
+          </div>
+        </div>
+      </li>
+    </ul>
+  </div>
+</div>
 
 
 <!-- POS 4715  -->
